@@ -1,5 +1,13 @@
 **Consumer Behavior and Brand Perception :**
 
+**Objective:**
+
+The primary objective of this project is to analyze and understand consumer behavior and brand perception by examining various factors that influence purchasing decisions. 
+
+By exploring data related to customer demographics, brand preferences, buying patterns, and customer feedback, this analysis aims to uncover key insights that can guide businesses in enhancing brand loyalty, improving customer engagement, and developing targeted marketing strategies. 
+
+The ultimate goal is to provide actionable recommendations that align with consumer needs and preferences, thereby driving brand success in a competitive market.
+
 **Overall Summary:**
 
 **Data Overview:**
