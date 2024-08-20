@@ -2,7 +2,7 @@
 
 **Overall Summary:**
 
-D****ata Overview:
+**Data Overview:**
 
 The dataset comprises 10,000 entries with various attributes, including demographic details, consumption patterns, brand perceptions, and marketing channels.
 Key columns include Name, Age, Gender, City, Tier, and multiple attributes related to consumption and perceptions.
