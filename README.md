@@ -8,7 +8,7 @@ By exploring data related to customer demographics, brand preferences, buying pa
 
 The ultimate goal is to provide actionable recommendations that align with consumer needs and preferences, thereby driving brand success in a competitive market.
 
-**Overall Summary:**
+**Overall Summary:** 
 
 **Data Overview:**
 
